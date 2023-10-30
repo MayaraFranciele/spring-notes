@@ -3,8 +3,7 @@
 ![SpringLogo](https://miro.medium.com/v2/resize:fit:600/1*ljHUhFnaBissdRBe7DIo6g.png)
 
 ## Índice:
-- <a href="#resumo">O que é o Spring Boot?</a>
-
+- [O que é o Spring Boot?](#resumo)
 - [Seção 1](#secao1)
 - [Seção 2](#secao2)
 
