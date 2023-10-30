@@ -11,7 +11,9 @@
 <a name="resumo"></a>
 ## O que é o Spring Boot?
 
-:pushpin:	O Spring Boot simplifica o desenvolvimento de aplicativos Java, proporcionando uma base sólida e um conjunto de ferramentas que aceleram o ciclo de desenvolvimento e tornam mais fácil a criação de aplicativos prontos para produção.
+:pushpin:	O Spring Boot é um framework Java que simplifica o desenvolvimento de aplicativos, oferecendo configuração automática e estrutura pré-definida. Ele é conhecido por sua facilidade de uso, construção de aplicativos autônomos e integração perfeita com o ecossistema Spring, tornando o desenvolvimento de aplicativos Java mais rápido e eficiente. 
+
+Com o Spring Boot, os desenvolvedores podem se concentrar mais na lógica de negócios e menos na configuração, acelerando o desenvolvimento e facilitando a implantação de aplicativos prontos para produção
 
 <a name="secao1"></a>
 ## Seção 1
