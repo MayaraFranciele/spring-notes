@@ -6,6 +6,8 @@
 - [O que é o Spring Boot?](#resumo)
 - [Service](#service)
 - [RestController](#restcontroller)
+- [Repository](#repository)
+
 
 
 <a name="resumo"></a>
@@ -26,5 +28,12 @@ A anotação @Service no Spring Boot é usada para marcar uma classe como um com
 ## @RestController 
 
 A anotação @RestController no Spring Boot é usada para criar controladores que tratam solicitações HTTP RESTful e retornam respostas no formato desejado, como JSON ou XML. Os métodos em um controlador marcados com @RestController são mapeados para URLs específicas e tratam diferentes tipos de solicitações HTTP, como GET, POST, PUT, DELETE, etc.
+
+
+
+<a name="repository"></a>
+## @RestController 
+
+A anotação @Repository no Spring é usada para marcar uma classe como um componente de repositório. Ela é usada principalmente em classes que acessam e gerenciam o acesso a um banco de dados ou a fontes de dados de armazenamento. 
 
 
