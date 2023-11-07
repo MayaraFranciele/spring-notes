@@ -32,7 +32,7 @@ A anotação @RestController no Spring Boot é usada para criar controladores qu
 
 
 <a name="repository"></a>
-## @RestController 
+## @Repository 
 
 A anotação @Repository no Spring é usada para marcar uma classe como um componente de repositório. Ela é usada principalmente em classes que acessam e gerenciam o acesso a um banco de dados ou a fontes de dados de armazenamento. 
 
