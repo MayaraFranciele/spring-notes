@@ -2,7 +2,7 @@
 
 ![SpringLogo](https://miro.medium.com/v2/resize:fit:600/1*ljHUhFnaBissdRBe7DIo6g.png)
 
-## Índice:
+## Sumário:
 - [O que é o Spring Boot?](#resumo)
 - [Service](#service)
 - [RestController](#restcontroller)
