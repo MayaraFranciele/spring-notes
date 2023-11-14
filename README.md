@@ -7,6 +7,7 @@
 - [Service](#service)
 - [RestController](#restcontroller)
 - [Repository](#repository)
+- [Data](#data)
 
 
 
@@ -36,4 +37,10 @@ A anotação @RestController no Spring Boot é usada para criar controladores qu
 
 A anotação @Repository no Spring é usada para marcar uma classe como um componente de repositório. Ela é usada principalmente em classes que acessam e gerenciam o acesso a um banco de dados ou a fontes de dados de armazenamento. 
 
+
+
+<a name="data"></a>
+## @Data 
+
+A anotação @Data no Spring Boot, associada à biblioteca Lombok, ajuda a reduzir a quantidade de código que você precisa escrever. Quando você coloca @Data em uma classe, o Lombok automaticamente cria alguns métodos comuns, como getters, setters e constructors. Isso simplifica o código e torna a sua classe mais fácil de ler e manter, sem perder funcionalidades. 
 
