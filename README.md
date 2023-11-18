@@ -8,6 +8,8 @@
 - [RestController](#restcontroller)
 - [Repository](#repository)
 - [Data](#data)
+- [NoArgsConstructor](#noargsconstructor)
+
 
 
 
@@ -43,4 +45,18 @@ A anotação @Repository no Spring é usada para marcar uma classe como um compo
 ## @Data 
 
 A anotação @Data no Spring Boot, associada à biblioteca Lombok, ajuda a reduzir a quantidade de código que você precisa escrever. Quando você coloca @Data em uma classe, o Lombok automaticamente cria alguns métodos comuns, como getters, setters e constructors. Isso simplifica o código e torna a sua classe mais fácil de ler e manter, sem perder funcionalidades. 
+
+
+
+<a name="noargsconstructor"></a>
+## @NoArgsConstructor
+
+A anotação @NoArgsConstructor no Spring Boot, usando a biblioteca Lombok, simplifica a criação de construtores sem parâmetros em suas classes. Ao aplicar @NoArgsConstructor a uma classe, o Lombok automaticamente gera um construtor que não requer nenhum argumento. Isso é útil, por exemplo, ao criar instâncias da classe sem fornecer explicitamente valores para os atributos.
+
+Essa anotação elimina a necessidade de você escrever manualmente um construtor sem parâmetros, economizando tempo e tornando o código mais conciso. Assim como com outras anotações do Lombok, é necessário garantir que a dependência do Lombok esteja corretamente configurada no seu projeto para que a anotação funcione conforme esperado.
+
+
+
+
+
 
